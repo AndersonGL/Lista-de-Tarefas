@@ -31,3 +31,7 @@ Um projeto simples para treinar manipulação do DOM, adicionando e removendo ta
 ├── style.css
 └── script.js
 
+## Como executar
+git clone https://github.com/AndersonGL/Lista-de-Tarefas.git
+
+
